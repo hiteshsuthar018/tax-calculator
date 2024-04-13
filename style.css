@@ -1,0 +1,69 @@
+
+.bg-black {
+    background: black;
+    
+}
+
+.text-light {
+    color: #ffffff !important;
+}
+
+.card.bg-dark {
+    background-color: #303030 !important;
+}
+
+.btn-primary {
+    background-color: #007bff !important;
+    border-color: #007bff !important;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3 !important;
+    border-color: #0056b3 !important;
+}
+
+.modal-content.bg-dark {
+    background-color: #303030 !important;
+    color: #ffffff !important;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.input-group-text {
+    background-color: white;
+    border: none;
+    
+}
+.fas{
+    
+    cursor: pointer;
+}
+.form-control {
+    border: none;
+    border-radius: 0; 
+    box-shadow: none; 
+    outline: none;
+}
+.form-control:focus {
+    box-shadow: none !important;
+}
+
+
+
+i {
+    
+    color: rgb(196, 239, 255); 
+}
+i:hover {
+    color: rgb(151, 227, 255); 
+}
